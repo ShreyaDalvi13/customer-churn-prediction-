@@ -56,7 +56,7 @@ link : http://localhost:8501/
 
 ## ⚙️ Installation & Setup
 - 1️⃣ Clone the Repository
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/ShreyaDalvi13/customer-churn-prediction.git
 cd customer-churn-prediction
 
 - 2️⃣ Install Required Libraries
