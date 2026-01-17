@@ -115,5 +115,6 @@ The model is evaluated using:
 
 ## 👨‍💻 Author
 
-Shreya Dalvi
+Shreya Dalvi  
+
 Machine Learning & Data Science Project
